@@ -11,6 +11,15 @@ header {
     justify-content: space-between;
 }
 
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url(./assets/machiningimage.png);
+    background-size: cover;
+    background-position: center;
+}
+
 .nav a {
     color: white;
     text-decoration: none;
