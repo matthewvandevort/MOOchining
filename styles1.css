@@ -18,6 +18,7 @@ header {
     background-image: url(./assets/machiningimage.png);
     background-size: cover;
     background-position: center;
+    margin-left: 0;
 }
 
 .nav a {
