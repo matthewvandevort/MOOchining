@@ -1,0 +1,45 @@
+h1 {
+   display: block;
+   padding-top: 0px;
+   color: rgb(150, 45, 45);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: rgb(190, 202, 216)
+}
+
+header {
+    background-color: rgb(84, 177, 180);
+    padding: 20px;
+}
+
+li {
+    display: inline;
+    padding: 20px;
+    font-size: larger;
+    
+}
+
+.nav {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+.text-right {
+    
+}
